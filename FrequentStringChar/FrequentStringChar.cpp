@@ -9,11 +9,6 @@ int main()
 	std::string x = "Morozii Cristian stefan";
 	
 	//std::cout << ReturnFC(x);
-	
-
-
-
-
 
 	std::cout << ReturnFrequentChar(x);
 }
